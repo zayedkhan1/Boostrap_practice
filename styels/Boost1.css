@@ -1,0 +1,19 @@
+.middle{
+    width: 100%;
+    height: 800px;
+    background-color: red;
+}
+.middling{
+    width: 80%;
+    height: 500px;
+    background-color: green;
+    text-align: right;
+   margin: 0px auto;
+}
+.second_middle{
+    background-color: orange;
+    width: 80%;
+    height: 300px;
+    margin: 0px auto;
+    margin-top: 2rem;
+}
